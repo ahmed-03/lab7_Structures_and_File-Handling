@@ -16,6 +16,3 @@ clean:
 
 move:
 	mv $(EXEC) *.c *.o finsh/
-
-
-
